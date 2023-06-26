@@ -1,0 +1,1 @@
+var t=256,a=[],n=256,r;for(;t--;)a[t]=(t+256).toString(16).substring(1);function o(e){var s=0,i=e||11;if(!r||t+i>n*2)for(r="",t=0;s<n;s++)r+=a[Math.random()*256|0];return r.substring(t,t+++i)}const g="/assets/trash-light-green-8e4eb5f3.png";export{g as _,o as u};
